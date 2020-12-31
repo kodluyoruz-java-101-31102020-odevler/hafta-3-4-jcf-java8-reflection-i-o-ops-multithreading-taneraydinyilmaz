@@ -1,0 +1,9 @@
+
+
+---------------------------------------------------------------------------
+Veri kümesi üzerinde yoðun ekleme çýkarma gibi iþlemler mevcut ise
+LinkedList avantajlýdýr Bu durumda ArrayList'e göre daha hýzlýdýr.
+Hýzlý olmasýnýn sebebi herhangi bir kaydýrma iþlemine gerek duymaz.
+ArrayList ise veri saklamak, veriye eriþimin yoðun olduðu durumlarda
+kullanmak daha uygundur.
+---------------------------------------------------------------------------
